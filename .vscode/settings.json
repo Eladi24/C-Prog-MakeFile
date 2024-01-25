@@ -10,5 +10,6 @@
             "binaryPath": "/home/vboxuser/projects/C-Prog-MakeFile/maindloop",
             "binaryArgs": []
         }
-    ]
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
 }
