@@ -1,0 +1,4 @@
+Enter a number1: Enter a number2: The Armstrong numbers are: 1 2 3 4 5 6 7 8 9
+The Palindromes are: 1 2 3 4 5 6 7 8 9 11 22 33 44
+The Prime numbers are: 2 3 5 7 11 13 17 19 23 29 31 37 41 43
+The Strong numbers are: 1 2 3 4 5 6 7 8 9 11 22 33 44

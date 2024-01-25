@@ -1,0 +1,14 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/vboxuser/projects/C-Prog-MakeFile",
+            "binaryPath": "/home/vboxuser/projects/C-Prog-MakeFile/mains",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/vboxuser/projects/C-Prog-MakeFile",
+            "binaryPath": "/home/vboxuser/projects/C-Prog-MakeFile/maindloop",
+            "binaryArgs": []
+        }
+    ]
+}
