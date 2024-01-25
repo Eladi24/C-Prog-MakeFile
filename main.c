@@ -5,10 +5,10 @@ int main()
 	int num1;
 	int num2;
 	// Get user input
-	printf("Enter a number1: ");
+	//printf("Enter a number1: ");
 	scanf("%d", &num1);
 
-	printf("Enter a number2: ");
+	//printf("Enter a number2: ");
 
 	scanf("%d", &num2);
 	// all primes in range
